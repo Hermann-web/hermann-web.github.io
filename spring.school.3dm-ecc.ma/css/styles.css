@@ -141,3 +141,12 @@ table tr td:first-child{
 .bg-tuto{
     background-color: #ffff0063;
 }
+
+.myfa{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.myfa > i{
+    margin-right: 10px;
+}
