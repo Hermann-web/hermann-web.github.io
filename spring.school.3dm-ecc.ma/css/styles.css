@@ -108,8 +108,11 @@ table tr td:first-child{
 
 .align-img img{
     max-height: 75px;/*80%;*/
-    max-width: 200px;
+    max-width: 100%;
     margin: 10px;
+}
+.align-img-main img{
+    max-width: 200px;
 }
 @media (min-width: 1080px){
     .align-img{
