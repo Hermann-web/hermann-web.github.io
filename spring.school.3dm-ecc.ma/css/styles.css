@@ -3,6 +3,7 @@
     justify-content: space-around;
 }
 
+
 .header-img > div{
     width: 33%;
     display: flex;
@@ -13,6 +14,18 @@
 .header-img > div img{
     max-height: 140px;
     max-width: 217px;
+}
+.header-img- > div img{
+    max-width: 150px;
+}
+.header2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hor-center{
+    display: flex;
+    align-items: center;
 }
 @media (max-width: 500px){
     .header-img{
@@ -114,4 +127,14 @@ table tr td:first-child{
 
 .table1{
     font-size: 14px !important;
+}
+
+.bg-atlr{
+    background-color: #8888ff5e;
+}
+.bg-conf{
+    /*background-color: #ff000063;*/
+}
+.bg-tuto{
+    background-color: #ffff0063;
 }
