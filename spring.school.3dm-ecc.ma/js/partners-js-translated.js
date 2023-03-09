@@ -1,0 +1,41 @@
+const textDataEng = {
+    "sct-2": "Poster",
+    "sct-4": "Register",
+    "sct-5": "Ecole Centrale Casablanca",
+    "sct-6": "Partners - TECHNINNOV DAY",
+    "sct-7": " Follow to stay updated",
+    "sct-8": "Home",
+    "sct-9": "Other Partners",
+    "sct-10": "Data Driven Decision Making",
+    "sct-11": "Partners",
+    "sct-12": "Registration",
+    "sct-13": "Main Partners",
+    "sct-14": "Organization",
+    "sct-16": " Banner Section ",
+    "sct-17": "08-12 may 2023",
+    "sct-18": "Program",
+    "sct-19": "Archives",
+    "sct-20": "Spring School 2023",
+    "sct-21": " Designed by Mohammed El Rhabi - 2015(C) and Hermann Agossou - 2023(C)"
+}
+
+const textDataFr = {
+    "sct-2": "Affiche",
+    "sct-4": "S'inscrire",
+    "sct-5": "Ecole Centrale Casablanca",
+    "sct-6": "Partenaires - Journée TECHNINNOV",
+    "sct-7": " Suivre pour rester à jour",
+    "sct-8": "Accueil",
+    "sct-9": "Autres partenaires",
+    "sct-10": "Prise de décisions basée sur les données",
+    "sct-11": "Partenaires",
+    "sct-12": "Inscription",
+    "sct-13": "Principaux partenaires",
+    "sct-14": "Organisation",
+    "sct-16": "Section de la bannière",
+    "sct-17": "08-12 mai 2023",
+    "sct-18": "Programme",
+    "sct-19": "Archives",
+    "sct-20": "École de printemps 2023",
+    "sct-21": "Conçu par Mohammed El Rhabi - 2015 (C) et Hermann Agossou - 2023 (C)"
+    }
