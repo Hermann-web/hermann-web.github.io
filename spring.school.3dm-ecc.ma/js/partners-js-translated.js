@@ -20,14 +20,14 @@ const textDataEng = {
 }
 
 const textDataFr = {
-    "sct-2": "Affiche",
+    "sct-2": "Poster",
     "sct-4": "S'inscrire",
     "sct-5": "Ecole Centrale Casablanca",
     "sct-6": "Partenaires - Journée TECHNINNOV",
-    "sct-7": " Suivre pour rester à jour",
+    "sct-7": " Suivez la page pour rester à jour",
     "sct-8": "Accueil",
     "sct-9": "Autres partenaires",
-    "sct-10": "Prise de décisions basée sur les données",
+    "sct-10": "Data Driven Decision Making",
     "sct-11": "Partenaires",
     "sct-12": "Inscription",
     "sct-13": "Principaux partenaires",

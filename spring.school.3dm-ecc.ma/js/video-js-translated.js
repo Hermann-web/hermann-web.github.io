@@ -21,14 +21,14 @@ const textDataEng = {
 }
 const textDataFr = {
     "sct-1": "Voir des photos des archives",
-    "sct-2": "Affiche",
+    "sct-2": "Poster",
     "sct-3": "S'inscrire",
     "sct-4": "Ecole Centrale Casablanca",
     "sct-5": "Edition 2022: Science des données",
     "sct-6": "Jour4printemps2022",
-    "sct-7": " Suivez-nous pour rester informé",
+    "sct-7": " Suivez la page pour rester à jour",
     "sct-8": "Accueil",
-    "sct-9": "Prise de décision basée sur les données",
+    "sct-9": "Data Driven Decision Making",
     "sct-10": "Partenaires",
     "sct-11": "Inscription",
     "sct-12": "Organisation",
