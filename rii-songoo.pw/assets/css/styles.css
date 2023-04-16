@@ -7,7 +7,22 @@ body {
   }
 .nav-link{
     font-size: 1.5rem;
+    color: #107a7bff !important;
+    transition: all 0.3s ease;
 }
+.nav-link:hover{
+  font-size: 2rem;
+  color: #fdbc54 !important;
+}
+.navbar-toggler:hover{
+  border-color: #107a7bff !important;
+}
+.btn-close:hover{
+  width: 1.5em;
+  height: 1.5em;
+  border: var(--bs-border-width) solid #107a7bff !important;
+}
+
 .navbar-default .btn-default, .navbar-default .btn, .navbar-default .btn-black {
   font-weight: 400;
   letter-spacing: 1px;
