@@ -1,0 +1,73 @@
+/* my curved div*/
+
+
+  .curved-bg {
+    height: 200px; /* set the height of the div */
+    background-image: linear-gradient(to bottom right, #ff6347, #ff8c00); /* set the background gradient */
+    background-size: 100% 50%; /* set the background size to 100% width and 50% height */
+    border-radius: 0 0 50% 50% / 0 0 100% 100%; /* set the border radius to create the curve */
+  }
+  .oblique-background {
+  position: relative;
+  height: 200px;
+  background-color: #ffffff;
+  transform: translateX(-50%);
+}
+
+
+.oblique-background::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #107a7bff;
+  transform: skewX(-17deg);
+  border-radius: 0 0 50% 50% / 0 0 100% 100%;
+}
+.oblique-background::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 50%;
+  background-color: #107a7bff;
+}
+
+.oblique-background::before {
+  left: 0;
+}
+
+
+
+/* custom carousel*/
+
+.carousel-control-prev, .carousel-control-next {
+  color: black;
+  background-color: #fdbc5485; /* Replace with your desired background color */
+}
+
+.carousel-indicators [data-bs-target] {
+  color: black;
+  background-color: #107a7bff;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+  background-color: #107a7bff;
+}
+
+
+.carousel-item-next, .carousel-item-prev, .carousel-item.active {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.carousel-caption{
+  top:25%;
+  bottom: 25%;
+  margin: auto;
+  padding: 2%;
+}
+
