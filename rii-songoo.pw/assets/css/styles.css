@@ -14,7 +14,7 @@ body {
   font-size: 2rem;
   color: #fdbc54 !important;
 }
-.btn, a, .navbar-toggler, .btn-close{    
+.btn, a, .navbar-toggler, .btn-close, .navbar-collapse{    
   transition: all 0.3s ease;
 }
 .navbar-toggler:hover{
