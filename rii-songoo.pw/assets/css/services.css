@@ -1,0 +1,9 @@
+.text-primary {
+    color: #107a7bff !important;
+  }
+.text-secondary{
+    color: #fdbc54 !important;
+}
+  p strong {
+    font-weight: 600;
+  }
