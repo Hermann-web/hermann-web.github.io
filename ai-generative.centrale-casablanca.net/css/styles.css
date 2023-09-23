@@ -34,9 +34,9 @@ a{
 }
 
 .header-img- > div img{
-    /*max-width: 65px;*/
-    max-height: 80px;
-    width: 100%;
+    max-width: 84px;
+    max-height: 46px;
+    /*width: 100%;*/
 }
 .header-img- > div a {
     display: flex;
