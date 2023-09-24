@@ -2,9 +2,26 @@ html, body {
     overflow: visible;
     /*font-size: 14px;*/
 }
-.larger-text-size{
+/* .larger-text-size{
     font-size: 14px;
-}
+} */
+
+
+@media (min-width: 576px){.larger-text-size {
+    font-size: 20px;
+}}
+@media (min-width: 768px){
+    .larger-text-size {
+        font-size: 18px;
+}}
+@media (min-width: 992px){
+    .larger-text-size {
+        font-size: 14px;
+}}
+
+
+
+
 a{
     text-decoration: none;
 }
@@ -85,8 +102,7 @@ a{
 @media (min-width: 1200px){
     .container, .container-lg, .container-md, .container-sm, .container-xl {
     max-width: 1140px;
-}
-}
+}}
 
 
 
