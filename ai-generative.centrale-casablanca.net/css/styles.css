@@ -151,16 +151,16 @@ table tr td:first-child{
 }
 
 
-.align-img{
+.list_partners > div{
     display: flex;
     justify-content: center;
     margin:14px;
 }
-.align-img-flyer{
+.list_partners > div-flyer{
     margin:0;   
 }
 
-.align-img a{
+.list_partners > div a{
 	display:flex;
 	align-items: center;
 	justify-content:center;
@@ -171,31 +171,31 @@ table tr td:first-child{
     text-decoration:none;
 }
 
-.align-img{
+.list_partners > div{
     min-height: 120px;
     /*min-width: 400px;*/
 }
 
-.align-img img{
+.list_partners > div img{
     max-height: 75px;/*80%;*/
     max-width: 100%;
     margin: 10px;
 }
-.align-img-main img{
+.list_partners > div-main img{
     max-width: 150px;
 }
 
 
 /*interesting only for many parteners*/
 /*@media (min-width: 1080px){
-    .align-img{
+    .list_partners > div{
         margin: 20px;
         max-height: 67px;
     }
 }
 
 @media (min-width: 1200px){
-    .align-img{
+    .list_partners > div{
         margin: 38px;
     }
 }
