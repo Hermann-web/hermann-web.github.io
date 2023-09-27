@@ -170,11 +170,11 @@ table tr td:first-child{
 .list_partners > div{
     display: flex;
     justify-content: center;
-    margin:14px;
+    align-items: center;
 }
-.list_partners > div-flyer{
+/* .list_partners > div-flyer{
     margin:0;   
-}
+} */
 
 .list_partners > div a{
 	display:flex;
@@ -197,9 +197,9 @@ table tr td:first-child{
     max-width: 100%;
     margin: 10px;
 }
-.list_partners > div-main img{
+/* .list_partners > div-main img{
     max-width: 150px;
-}
+} */
 
 
 /*interesting only for many parteners*/
