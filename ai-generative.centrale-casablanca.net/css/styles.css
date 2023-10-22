@@ -60,6 +60,15 @@ a{
     align-items: center;
 }
 
+.header-img-one-img > div img{
+    width: 100%;
+}
+.header-img-one-img > div a {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
 .header2{
     display: flex;
     align-items: center;
